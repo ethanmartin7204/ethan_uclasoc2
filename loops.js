@@ -9,3 +9,5 @@ var awesome = students.map (student => student + " is awesome");
 
 var numbers = [12, 457, 52, 16];
 var total = numbers.reduce((memo,CurrentValue)=>memo * CurrentValue,1)
+
+var app = student.each()
